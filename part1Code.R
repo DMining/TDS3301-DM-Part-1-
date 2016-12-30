@@ -1,4 +1,4 @@
-
+#Please remember to set the working directory
 #read the data
 sales <- read.csv("sales_data.csv", header = TRUE ,stringsAsFactors = FALSE)
 #view the summary of the dataset
