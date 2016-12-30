@@ -10,6 +10,6 @@ EXPLORATORY DATA ANALYSIS
 * Dataset: sales_data.csv
 
 * Source of dataset: https://www.kaggle.com/kyanyoga/sample-sales-data
-Credits to owner.
+
 
 
