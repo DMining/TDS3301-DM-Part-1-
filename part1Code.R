@@ -52,7 +52,6 @@ quarterSum<-sales %>%
   distinct(sumOfSale)
 #plot of insight 4
 barplot(drop$sumOfSale, ylim=c(0,10000000), names.arg = c("Q1","Q2","Q3","Q4"), col=rainbow(30), main="Sales in the 4 quarters of years 2003-2005", ylab="Sales total", xlab="Quarter of year")
-#find out if there's a way to change the scale in y axis
 
 
 
